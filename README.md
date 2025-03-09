@@ -29,7 +29,7 @@ This is a game inspired by the "Higher Lower Game," where the player must guess 
    ```
 3. Run the game:
    ```bash
-   python game.py
+   python higher_lower_game.py
    ```
 
 ## Project Structure
